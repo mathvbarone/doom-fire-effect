@@ -9,6 +9,8 @@
   "author": "Matheus Barone <matheusvbarone@gmail.com> (http://matheusbarone.com/)",
   "license": "MIT",
   "dependencies": {
+    "@heroku/update-node-build-script": "^1.0.3",
+    "express": "^4.16.4",
     "parcel-bundler": "^1.12.3"
   }
 }
