@@ -6,7 +6,6 @@
   "scripts": {
     "watch": "parcel watch index.html",
     "start": "parcel index.html",
-    "build": "parcel build index.html",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
   "author": "Matheus Barone <matheusvbarone@gmail.com> (http://matheusbarone.com/)",
