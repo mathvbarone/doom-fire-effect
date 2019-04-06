@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "parcel watch index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Matheus Barone <matheusvbarone@gmail.com> (http://matheusbarone.com/)",
   "license": "MIT",
