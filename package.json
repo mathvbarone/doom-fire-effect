@@ -1,0 +1,14 @@
+{
+  "name": "doom-fire-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Barone <matheusvbarone@gmail.com> (http://matheusbarone.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
